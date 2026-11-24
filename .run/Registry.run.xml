@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Сверка врачей" type="PythonConfigurationType" factoryName="Python">
+    <module name="psyonclinic-test-task" />
+    <option name="IS_MODULE_SDK" value="true" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/app.py" />
+    <method v="2" />
+  </configuration>
+</component>
